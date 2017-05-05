@@ -294,7 +294,7 @@ public class Buttons : MonoBehaviour
 
 //get the text component of the button and assign a variable to it.
 // check to see what that variable is,(switch statement) and based on that nunber we want to change what is in the input feild.
-//1) the text of the button
+
 
 
 
