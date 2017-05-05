@@ -274,25 +274,14 @@ public class Buttons : MonoBehaviour
 //        InvokeRepeating("Timer", 1, 1);
 //    }
 //}
-//
-//
 
 
 
 
 
- //   public void Matching()
-  //  {
- //       if () {
-  //      }
-  //  }
 
 
-	//compare result variable to all of your falling numbers
-	//if (result matches any)
-	//Clear falling number, reset to beginning position, and generate a new random number that will fall again
 
-//get the text component of the button and assign a variable to it.
 
 
 
